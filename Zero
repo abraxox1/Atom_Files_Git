@@ -6,4 +6,3 @@ zero = 'Sigma'
 escape = 'Clover'
 print(zero + ", " + escape)
 print("GitHub")
-print(3 / 2)
