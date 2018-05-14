@@ -1,0 +1,9 @@
+print(3 / 2)
+print("Hello World")
+name = 'Michael'
+print(name)
+zero = 'Sigma'
+escape = 'Clover'
+print(zero + ", " + escape)
+print("GitHub")
+print(3 / 2)
