@@ -6,3 +6,4 @@ zero = 'Sigma'
 escape = 'Clover'
 print(zero + ", " + escape)
 print("GitHub")
+print("iMac")
